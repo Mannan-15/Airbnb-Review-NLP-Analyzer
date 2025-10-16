@@ -2,6 +2,9 @@
 
 This project leverages state-of-the-art models from the Hugging Face Transformers library to perform a deep analysis of Airbnb user reviews. The pipeline includes sentiment analysis, text summarization, and keyword extraction to uncover valuable insights from unstructured text data.
 
+<img width="1394" height="345" alt="image" src="https://github.com/user-attachments/assets/684f1056-56d5-4ffb-98d7-40efd1f8ee66" />
+
+
 ## Features
 
 -   **Sentiment Analysis**: Utilizes a pre-trained, fine-tuned BERT-based model through the Transformers `pipeline` to accurately classify review sentiment as 'POSITIVE' or 'NEGATIVE' and provide a confidence score.
