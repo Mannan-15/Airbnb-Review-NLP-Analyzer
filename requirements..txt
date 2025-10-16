@@ -1,8 +1,11 @@
 pandas
 numpy
-textblob
-gensim
 matplotlib
 seaborn
-wordcloud
 nltk
+beautifulsoup4
+torch
+tensorflow
+transformers
+scikit-learn
+wordcloud
